@@ -1,0 +1,2 @@
+# This file contains the implementation of the Gauss-Seidel function for solving a system of linear equations.
+# The function will take a matrix of coefficients and a vector of constants, and return a vector of solutions.
